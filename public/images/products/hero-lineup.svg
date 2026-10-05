@@ -1,0 +1,76 @@
+<svg width="800" height="550" viewBox="0 0 800 550" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <radialGradient id="heroGlow" cx="50%" cy="65%" r="60%">
+      <stop offset="0%" stop-color="#EEF4FF" stop-opacity="1"/>
+      <stop offset="60%" stop-color="#F7F9FC" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="550" rx="24" fill="url(#heroGlow)"/>
+  <!-- Floor shadow reflection -->
+  <ellipse cx="400" cy="480" rx="340" ry="24" fill="#0A1F5C" fill-opacity="0.07"/>
+  
+  <!-- Lineup of bottles (rendered in layered perspective) -->
+  <!-- Left Jug: Rapid Wash Fabric 5L -->
+  <g transform="translate(100, 160) scale(0.65)">
+    <rect x="175" y="115" width="50" height="25" rx="4" fill="#1D4ED8"/>
+    <path d="M150 170 C120 170 110 200 110 240 C110 280 120 310 150 310" stroke="#2563EB" stroke-width="26" stroke-linecap="round"/>
+    <rect x="140" y="155" width="145" height="280" rx="20" fill="#2563EB"/>
+    <rect x="160" y="210" width="105" height="180" rx="10" fill="#FFFFFF"/>
+    <text x="212" y="260" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="800" text-anchor="middle">RAPID WASH</text>
+    <text x="212" y="320" fill="#1F6FEB" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="800" text-anchor="middle">5 LITRES</text>
+  </g>
+
+  <!-- Right Jug: Phenyl 5L -->
+  <g transform="translate(480, 160) scale(0.65)">
+    <rect x="175" y="115" width="50" height="25" rx="4" fill="#15803D"/>
+    <path d="M150 170 C120 170 110 200 110 240 C110 280 120 310 150 310" stroke="#78350F" stroke-width="26" stroke-linecap="round"/>
+    <rect x="140" y="155" width="145" height="280" rx="20" fill="#78350F"/>
+    <rect x="160" y="210" width="105" height="180" rx="10" fill="#FFFFFF"/>
+    <text x="212" y="260" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="800" text-anchor="middle">PHENYL 5L</text>
+    <text x="212" y="320" fill="#15803D" font-family="'Plus Jakarta Sans', sans-serif" font-size="14" font-weight="800" text-anchor="middle">DISINFECTANT</text>
+  </g>
+
+  <!-- Toilet Cleaner Navy (Left-Mid) -->
+  <g transform="translate(190, 150) scale(0.72)">
+    <rect x="180" y="105" width="40" height="35" rx="6" fill="#DC2626"/>
+    <path d="M175 160 C175 150 185 145 200 145 C215 145 225 150 225 160 L245 205 L248 420 C248 438 232 445 200 445 C168 445 152 438 152 420 L150 240 Z" fill="#0A1F5C"/>
+    <rect x="162" y="240" width="76" height="155" rx="8" fill="#FFFFFF"/>
+    <text x="200" y="280" fill="#DC2626" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="800" text-anchor="middle">TOILET</text>
+    <text x="200" y="295" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="700" text-anchor="middle">CLEANER</text>
+  </g>
+
+  <!-- Kleeny Dishwash Lemon (Center Front) -->
+  <g transform="translate(290, 130) scale(0.82)">
+    <rect x="180" y="105" width="40" height="35" rx="6" fill="#15803D"/>
+    <path d="M175 160 C175 150 185 145 200 145 C215 145 225 150 225 160 L245 205 L248 420 C248 438 232 445 200 445 C168 445 152 438 152 420 L150 240 Z" fill="#FACC15"/>
+    <rect x="162" y="240" width="76" height="155" rx="8" fill="#FFFFFF"/>
+    <rect x="162" y="240" width="76" height="24" rx="4" fill="#0A1F5C"/>
+    <text x="200" y="256" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="800" text-anchor="middle">CLEANTEC</text>
+    <text x="200" y="280" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="800" text-anchor="middle">KLEENY</text>
+    <text x="200" y="296" fill="#15803D" font-family="'Plus Jakarta Sans', sans-serif" font-size="7.5" font-weight="700" text-anchor="middle">LEMON POWER</text>
+  </g>
+
+  <!-- Glass Cleaner Trigger Spray (Right-Mid) -->
+  <g transform="translate(390, 140) scale(0.75)">
+    <path d="M175 110 H225 V140 H175 Z" fill="#0A1F5C" rx="4"/>
+    <path d="M175 115 L130 130 V120 L175 110 Z" fill="#0A1F5C"/>
+    <path d="M150 200 C150 170 190 170 190 170 H210 C210 170 250 170 250 200 L260 410 C260 435 240 445 200 445 C160 445 140 435 140 410 Z" fill="#38BDF8"/>
+    <rect x="156" y="240" width="88" height="150" rx="8" fill="#FFFFFF"/>
+    <text x="200" y="280" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="9.5" font-weight="800" text-anchor="middle">GLASS</text>
+    <text x="200" y="295" fill="#1F6FEB" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="700" text-anchor="middle">SHINE SPRAY</text>
+  </g>
+
+  <!-- Kleenol Floor Cleaner Pink (Right Front) -->
+  <g transform="translate(460, 160) scale(0.7)">
+    <rect x="180" y="105" width="40" height="35" rx="6" fill="#DB2777"/>
+    <path d="M175 160 C175 150 185 145 200 145 C215 145 225 150 225 160 L245 205 L248 420 C248 438 232 445 200 445 C168 445 152 438 152 420 L150 240 Z" fill="#F472B6"/>
+    <rect x="162" y="240" width="76" height="155" rx="8" fill="#FFFFFF"/>
+    <text x="200" y="280" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="800" text-anchor="middle">KLEENOL</text>
+    <text x="200" y="295" fill="#DB2777" font-family="'Plus Jakarta Sans', sans-serif" font-size="7.5" font-weight="700" text-anchor="middle">FLOOR CLEANER</text>
+  </g>
+
+  <!-- Badge banner in hero -->
+  <rect x="230" y="475" width="340" height="38" rx="10" fill="#FFFFFF" stroke="#E6EAF2"/>
+  <text x="400" y="499" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="700" text-anchor="middle">Complete Hospitality Range • 100% Commercial Grade</text>
+</svg>

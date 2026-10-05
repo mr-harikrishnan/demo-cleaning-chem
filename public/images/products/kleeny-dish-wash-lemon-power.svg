@@ -1,0 +1,20 @@
+<svg width="400" height="500" viewBox="0 0 400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <ellipse cx="200" cy="450" rx="80" ry="14" fill="#0A1F5C" fill-opacity="0.08"/>
+    <!-- Cap -->
+    <rect x="180" y="105" width="40" height="35" rx="6" fill="#15803D"/>
+    <rect x="186" y="140" width="28" height="12" fill="#CBD5E1"/>
+    <!-- Angled Neck / Shoulder -->
+    <path d="M175 160 C175 150 185 145 200 145 C215 145 225 150 225 160 L245 205 C250 215 250 225 250 240 L248 420 C248 438 232 445 200 445 C168 445 152 438 152 420 L150 240 C150 225 150 215 155 205 Z" fill="#FACC15"/>
+    <!-- Reflection -->
+    <path d="M160 215 L156 420 C156 428 162 436 175 440 L178 215 C170 215 164 215 160 215 Z" fill="#FFFFFF" fill-opacity="0.3"/>
+    <!-- Label -->
+    <rect x="162" y="240" width="76" height="155" rx="8" fill="#FFFFFF" stroke="#E2E8F0" stroke-width="1.5"/>
+    <rect x="162" y="240" width="76" height="24" rx="4" fill="#0A1F5C"/>
+    <text x="200" y="256" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="800" text-anchor="middle" letter-spacing="0.5">CLEANTEC™</text>
+    <text x="200" y="280" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="8.5" font-weight="800" text-anchor="middle">KLEENY DISH WASH</text>
+    <text x="200" y="295" fill="#2E9B3E" font-family="'Plus Jakarta Sans', sans-serif" font-size="7" font-weight="700" text-anchor="middle">LEMON POWER</text>
+    <circle cx="200" cy="328" r="16" fill="#FEF08A"/>
+    <path d="M195 328 L198 331 L205 324" stroke="#2E9B3E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+    <text x="200" y="365" fill="#0F172A" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="600" text-anchor="middle">500 ml / 1 L</text>
+    <text x="200" y="378" fill="#1F6FEB" font-family="'Plus Jakarta Sans', sans-serif" font-size="6.5" font-weight="600" text-anchor="middle">PROFESSIONAL</text>
+  </svg>

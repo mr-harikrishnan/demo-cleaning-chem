@@ -1,0 +1,39 @@
+<svg width="400" height="500" viewBox="0 0 400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+          <stop offset="0%" stop-color="#EEF4FF" stop-opacity="0.8"/>
+          <stop offset="100%" stop-color="#FFFFFF" stop-opacity="0"/>
+        </radialGradient>
+        <linearGradient id="bodyGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+          <stop offset="0%" stop-color="#FBBF24" stop-opacity="0.85"/>
+          <stop offset="50%" stop-color="#FBBF24" stop-opacity="1"/>
+          <stop offset="85%" stop-color="#FBBF24" stop-opacity="0.75"/>
+          <stop offset="100%" stop-color="#FBBF24" stop-opacity="0.6"/>
+        </linearGradient>
+        <linearGradient id="labelGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+          <stop offset="0%" stop-color="#FFFFFF"/>
+          <stop offset="100%" stop-color="#F8FAFC"/>
+        </linearGradient>
+      </defs>
+      <ellipse cx="200" cy="450" rx="90" ry="14" fill="#0A1F5C" fill-opacity="0.08"/>
+      <!-- Bottle neck and trigger spray -->
+      <path d="M190 140 H210 V170 H190 Z" fill="#E2E8F0"/>
+      <!-- Spray Trigger Head -->
+      <path d="M175 110 H225 V140 H175 Z" fill="#0A1F5C" rx="4"/>
+      <path d="M175 115 L130 130 V120 L175 110 Z" fill="#0A1F5C"/>
+      <path d="M185 140 C185 155 170 165 160 175 H175 C185 165 195 155 195 140 Z" fill="#12338F"/>
+      <!-- Bottle Body -->
+      <path d="M150 200 C150 170 190 170 190 170 H210 C210 170 250 170 250 200 L260 410 C260 435 240 445 200 445 C160 445 140 435 140 410 L150 200 Z" fill="url(#bodyGrad)"/>
+      <!-- Bottle Highlight -->
+      <path d="M160 210 L152 410 C152 420 160 430 175 435 L175 205 C166 205 162 208 160 210 Z" fill="#FFFFFF" fill-opacity="0.3"/>
+      <!-- Label -->
+      <rect x="156" y="240" width="88" height="150" rx="8" fill="url(#labelGrad)" stroke="#E2E8F0" stroke-width="1.5"/>
+      <rect x="156" y="240" width="88" height="24" rx="4" fill="#0A1F5C"/>
+      <text x="200" y="256" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="10" font-weight="700" text-anchor="middle" letter-spacing="0.5">CLEANTEC™</text>
+      <text x="200" y="280" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="800" text-anchor="middle">KITCHEN DEGREASER</text>
+      <text x="200" y="295" fill="#2E9B3E" font-family="'Plus Jakarta Sans', sans-serif" font-size="7" font-weight="700" text-anchor="middle">TOUGH ON GREASE</text>
+      <circle cx="200" cy="325" r="18" fill="#FEF3C7"/>
+      <path d="M195 325 L199 329 L206 321" stroke="#2E9B3E" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+      <text x="200" y="360" fill="#0F172A" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="600" text-anchor="middle">500 ml</text>
+      <text x="200" y="375" fill="#1F6FEB" font-family="'Plus Jakarta Sans', sans-serif" font-size="6.5" font-weight="600" text-anchor="middle">PROFESSIONAL</text>
+    </svg>

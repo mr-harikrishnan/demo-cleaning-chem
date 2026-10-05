@@ -1,0 +1,22 @@
+<svg width="400" height="500" viewBox="0 0 400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <ellipse cx="200" cy="455" rx="100" ry="16" fill="#0A1F5C" fill-opacity="0.08"/>
+      <!-- Cap -->
+      <rect x="175" y="115" width="50" height="25" rx="4" fill="#15803D"/>
+      <rect x="180" y="140" width="40" height="15" fill="#E2E8F0"/>
+      <!-- Handle -->
+      <path d="M150 170 C120 170 110 200 110 240 C110 280 120 310 150 310" stroke="#78350F" stroke-width="26" stroke-linecap="round"/>
+      <path d="M150 170 C125 170 116 200 116 240 C116 280 125 310 150 310" stroke="#FFFFFF" stroke-opacity="0.25" stroke-width="8" stroke-linecap="round"/>
+      <!-- Main Jug Body -->
+      <rect x="140" y="155" width="145" height="280" rx="20" fill="#78350F"/>
+      <path d="M150 165 H275 V425 H150 Z" fill="#FFFFFF" fill-opacity="0.08"/>
+      <!-- Label -->
+      <rect x="160" y="210" width="105" height="180" rx="10" fill="#FFFFFF" stroke="#E6EAF2" stroke-width="1.5"/>
+      <rect x="160" y="210" width="105" height="32" rx="6" fill="#15803D"/>
+      <text x="212" y="231" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="800" text-anchor="middle" letter-spacing="1">CLEANTEC™</text>
+      <text x="212" y="262" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="11" font-weight="800" text-anchor="middle">PHENYL DISINFECTANT</text>
+      <text x="212" y="280" fill="#2E9B3E" font-family="'Plus Jakarta Sans', sans-serif" font-size="8.5" font-weight="700" text-anchor="middle">5L HEAVY DUTY</text>
+      <rect x="175" y="300" width="75" height="38" rx="6" fill="#EEF4FF"/>
+      <text x="212" y="318" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="800" text-anchor="middle">5 LITRES</text>
+      <text x="212" y="331" fill="#1F6FEB" font-family="'Plus Jakarta Sans', sans-serif" font-size="7.5" font-weight="600" text-anchor="middle">HOTEL PACK</text>
+      <text x="212" y="365" fill="#475569" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="600" text-anchor="middle">HOSPITALITY GRADE</text>
+    </svg>

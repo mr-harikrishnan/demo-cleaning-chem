@@ -1,0 +1,18 @@
+<svg width="400" height="500" viewBox="0 0 400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <ellipse cx="200" cy="450" rx="75" ry="14" fill="#0A1F5C" fill-opacity="0.08"/>
+      <!-- Aerosol Cap -->
+      <path d="M170 120 C170 110 180 100 200 100 C220 100 230 110 230 120 V160 H170 Z" fill="#E11D48"/>
+      <circle cx="200" cy="130" r="3" fill="#FFFFFF"/>
+      <!-- Can Body -->
+      <rect x="160" y="160" width="80" height="280" rx="14" fill="#F43F5E"/>
+      <rect x="164" y="160" width="10" height="280" fill="#FFFFFF" fill-opacity="0.3"/>
+      <!-- Graphics -->
+      <rect x="160" y="230" width="80" height="150" fill="#FFFFFF" fill-opacity="0.95"/>
+      <rect x="160" y="230" width="80" height="24" fill="#BE123C"/>
+      <text x="200" y="246" fill="#FFFFFF" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="800" text-anchor="middle" letter-spacing="0.5">CLEANTEC™</text>
+      <text x="200" y="272" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="9" font-weight="800" text-anchor="middle">ROOM FRESHENER</text>
+      <text x="200" y="288" fill="#D97706" font-family="'Plus Jakarta Sans', sans-serif" font-size="7.5" font-weight="700" text-anchor="middle">FLORAL PREMIUM MIST</text>
+      <circle cx="200" cy="320" r="16" fill="#FFFBEB"/>
+      <path d="M195 320 C195 312 205 312 205 320 C205 328 195 328 195 320 Z" fill="#D97706"/>
+      <text x="200" y="355" fill="#475569" font-family="'Plus Jakarta Sans', sans-serif" font-size="8" font-weight="600" text-anchor="middle">300 ml</text>
+    </svg>

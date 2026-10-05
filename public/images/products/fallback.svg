@@ -1,0 +1,7 @@
+<svg width="400" height="500" viewBox="0 0 400 500" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="500" rx="16" fill="#F8FAFC"/>
+  <circle cx="200" cy="220" r="48" fill="#EEF4FF"/>
+  <path d="M200 190 C200 190 180 215 180 230 C180 241 189 250 200 250 C211 250 220 241 220 230 C220 215 200 190 200 190 Z" fill="#1F6FEB"/>
+  <text x="200" y="300" fill="#0A1F5C" font-family="'Plus Jakarta Sans', sans-serif" font-size="16" font-weight="700" text-anchor="middle">CleanTec Hospitality</text>
+  <text x="200" y="325" fill="#94A3B8" font-family="'Plus Jakarta Sans', sans-serif" font-size="12" font-weight="600" text-anchor="middle">Professional Cleaning Solutions</text>
+</svg>
